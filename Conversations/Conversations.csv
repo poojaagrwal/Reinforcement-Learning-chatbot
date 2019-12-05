@@ -1,0 +1,15 @@
+Greetings,Greetings_A,Place,Place_A,Location,Answers
+Hello,"Hello, how can I help?",Costco,Which Costco (Sunnyvale or SanJose)?,Sunnyvale,<Sunnyvale Costco  Crowd>
+,,Safeway,Which Safeway (Sunnyvale or SanJose)?,SanJose,<SanJose Costco  Crowd>
+,,Starbucks,Which Starbucks (Sunnyvale or SanJose)?,,<Sunnyvale  Safeway Crowd>
+,,NYPizza,Which NYPizza (Sunnyvale or SanJose)?,,<SanJose  Safeway Crowd>
+,,Target,Which Target (Sunnyvale or SanJose)?,,<Sunnyvale Starbucks Crowd>
+,,TraderJoes,Which TraderJoes (Sunnyvale or SanJose)?,,<SanJose Starbucks Crowd>
+,,Costcogas,Which Costcogas (Sunnyvale or SanJose)?,,<Sunnyvale NYPizza Crowd>
+,,,,,There are no NYPizza places in SanJose
+,,,,,<Sunnyvale Target Crowd>
+,,,,,<SanJose Target Crowd>
+,,,,,<Sunnyvale TraderJoes Crowd>
+,,,,,<SanJose TraderJoes Crowd>
+,,,,,<Sunnyvale Costcogas Crowd>
+,,,,,<SanJose Costcogas Crowd>
