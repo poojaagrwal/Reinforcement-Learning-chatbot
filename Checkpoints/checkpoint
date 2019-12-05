@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/pagarwal/Downloads/DRL-Chatbot-master/Checkpoints/checkpoint-3000000"
+all_model_checkpoint_paths: "/Users/pagarwal/Downloads/DRL-Chatbot-master/Checkpoints/checkpoint-3000000"
