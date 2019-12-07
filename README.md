@@ -11,7 +11,7 @@ Rohini Shimpatwar
 Saurabh Aggarwal</b>
 
 
-Reference:
+Reference:</br>
 -https://github.com/KGSands</br>
 -https://learning.oreilly.com/library/view/deep-reinforcement-learning/9781788834247/ch12.html</br>
 -https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter12</br>
