@@ -12,9 +12,9 @@ Saurabh Aggarwal</b>
 
 
 Reference:
--https://github.com/KGSands
--https://learning.oreilly.com/library/view/deep-reinforcement-learning/9781788834247/ch12.html
--https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter12
+-https://github.com/KGSands</br>
+-https://learning.oreilly.com/library/view/deep-reinforcement-learning/9781788834247/ch12.html</br>
+-https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter12</br>
 
 We would like to thank <b>Keelan KGSands</b> to provide us a baseline for our project. The fundamental of this chatbot implementation was inspired by his work and we were able to give it a shape according our need which was to provide the user of our application (crowd couting at a public plcae, Mall, stores, DMV etc.) an interface to give a crowd footfall estimation  using an DQN learned chatbot.
 </br>
