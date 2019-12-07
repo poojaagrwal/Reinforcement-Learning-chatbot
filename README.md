@@ -8,7 +8,17 @@ Pooja Agarwal
 
 Rohini Shimpatwar
 
-Saurabh Aggarwal<b>
+Saurabh Aggarwal</b>
+
+
+Reference:
+https://github.com/KGSands
+https://learning.oreilly.com/library/view/deep-reinforcement-learning/9781788834247/ch12.html
+https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On/tree/master/Chapter12
+
+We would like to thank <b>Keelan KGSands</b> to provide us a baseline for our project. The fundamental of this chatbot implementation was inspired by his work and we were able to give it a shape according our need which was to provide the user of our application (crowd couting at a public plcae, Mall, stores, DMV etc.) an interface to give a crowd footfall estimation  using an DQN learned chatbot.
+
+
 
 The application comprises of a chatbot, that aims to give a user appropriate answers based on their queries. A learning agent uses a deep Q learning neural network to get the maximum reward and reply at a given point of time. 
 
